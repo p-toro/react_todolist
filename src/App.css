@@ -1,0 +1,18 @@
+.app{
+  padding: 60px 10%;
+}
+
+.app_form .MuiInputBase-root {
+  margin-right: 20px;
+}
+
+.app_list {
+  margin-top: 20px;
+  padding: 20px 40px;
+  background-color: #eee;
+}
+
+.app_list li {
+  margin-bottom: 20px;
+  background-color: #fff;
+}
